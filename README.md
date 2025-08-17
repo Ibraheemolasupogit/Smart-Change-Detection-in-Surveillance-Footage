@@ -2,7 +2,7 @@
 
 This project demonstrates an intelligent way to analyze surveillance (CCTV) video by automatically detecting and extracting only the **interesting or meaningful events** — such as the appearance of people, vehicles, or other motion — while skipping the static, uneventful parts.
 
-Instead of watching hours of video manually, this tool detects changes in the environment and filters out irrelevant frames, helping users focus only on what matters.
+Instead of watching hours of video manually, this tool detects changes in the environment and filters out irrelevant frames, helping users focus only on what matters. 
 
 ---
 
